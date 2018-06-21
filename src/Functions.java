@@ -21,11 +21,11 @@ public class Functions {
 
     // 5) Descriptive names of what the function should do
     public void loadInfo(){
-
+        // LOGIC
     }
 
     public void getDataFromExternalApi(){ // PREFERRED
-
+        // LOGIC
     }
 
 
